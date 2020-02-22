@@ -22,8 +22,8 @@ The user should be able to:
   * View multiple the combined weight of multiple exercises on the `stats` page.
 
   <br>
-  <img src='./public/pics/app1.JPG>
+  <img src='./public/pics/app1.JPG'>
   <br>
-  <img src='./public/pics/app2.JPG>
+  <img src='./public/pics/app2.JPG'>
   <br>
-  <img src='./public/pics/app3.JPG>
+  <img src='./public/pics/app3.JPG'>
